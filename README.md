@@ -27,7 +27,7 @@ This project involves analyzing Amazon's sales data to derive meaningful insight
 
 ---
 
-<img src="https://github.com/NisharFathima/Projects-Portfolio/blob/Microsoft-Excel/Amazon%20Sales%20Data%20Analysis%20Dashboard.png" width = "1000" align="center">
+<img src="Amazon Sales Data Analysis Dashboard.png" width = "1000" align="center">
 
 ---
 
