@@ -1,5 +1,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "300" align="right"> 
---
+
+
+---
 
 # <ins> Amazon Sales Data Analysis </ins>
 
