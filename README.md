@@ -26,8 +26,8 @@ This project involves analyzing Amazon's sales data to derive meaningful insight
 - **Excel**: Data analysis, visualization, and reporting.
 
 ---
-<img src="https://github.com/NisharFathima/Projects-Portfolio/blob/Microsoft-Excel/Amazon%20Sales%20Data%20Analysis%20Dashboard.png" width = "500" height ="500">
-
+<img src="https://github.com/NisharFathima/Projects-Portfolio/blob/Microsoft-Excel/Amazon%20Sales%20Data%20Analysis%20Dashboard.png" width = "1000">
+---
 ## <ins>Dataset</ins>
 The dataset includes sales data from Amazon, covering attributes like:
 - Order IDs
