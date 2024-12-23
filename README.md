@@ -1,6 +1,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "300" align="left"> 
 <title>
-<b> <ins> Amazon Sales Data Analysis </ins> </b>
+<b><u>Amazon Sales Data Analysis </u> </b>
 </title>
 
 ** <ins> Project Overview </ins>**
