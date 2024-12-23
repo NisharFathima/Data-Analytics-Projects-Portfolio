@@ -1,5 +1,6 @@
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "300" align="center"> 
+
 # <ins> Amazon Sales Data Analysis </ins> 
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "300" align="right"> 
 
 
 ## <ins> Project Overview </ins>
@@ -26,11 +27,6 @@ This project involves analyzing Amazon's sales data to derive meaningful insight
 - **Excel**: Data analysis, visualization, and reporting.
 
 ---
-
-<img src="Amazon Sales Data Analysis Dashboard.png" width = "1000" align="center">
-
----
-
 
 ## <ins>Dataset</ins>
 The dataset includes sales data from Amazon, covering attributes like:
@@ -73,13 +69,11 @@ The analysis includes visualizations to better understand the data:
 
 ---
 
-## <ins>How to Use</ins>
-1. Open the provided Excel file containing the cleaned and structured data.
-2. Navigate to the respective sheets for insights on:
-   - Sales Trends
-   - Key Metrics
-   - Regional Analysis
-3. Review the embedded charts and pivot tables for a clear understanding of the data.
+## <ins>Dashboard</ins>
+
+<img src="Amazon Sales Data Analysis Dashboard.png" width = "1000" align="center">
+
+---
 
 ---
 
