@@ -1,6 +1,3 @@
-GitHub project
-
-# Data Analytics Project Portfolio
 # <ins> Amazon Sales Data Analysis </ins>
 <img src="C:\Users\fathi\OneDrive\Pictures\Screenshots\Amazon DB.png" alt="Dashboard">
 <picture>
@@ -29,12 +26,12 @@ This project involves analyzing Amazon's sales data to derive meaningful insight
 
 ---
 
-## Tools and Technologies
+## <ins>Tools and Technologies</ins>
 - **Excel**: Data analysis, visualization, and reporting.
 
 ---
 
-## Dataset
+## <ins>Dataset</ins>
 The dataset includes sales data from Amazon, covering attributes like:
 - Order IDs
 - Sales Dates
@@ -46,7 +43,7 @@ The dataset includes sales data from Amazon, covering attributes like:
 
 ---
 
-## Insights & Findings
+## <ins> Insights & Findings </ins>
 1. **Total Revenue**: $137.35 Million
 2. **Total Profit**: $44.17 Million
 3. **Average Order Value (AOV)**: $267.80
@@ -67,15 +64,15 @@ The dataset includes sales data from Amazon, covering attributes like:
 
 ---
 
-## Visualizations
+## <ins>Visualizations</ins>
 The analysis includes visualizations to better understand the data:
 - Line charts for sales trends over time.
-- Bar charts for comparing regional sales.
-- Heatmaps for correlations between key metrics.
+- Bar charts for comparing yearly income.
+- Map chart for analysing regional sales.
 
 ---
 
-## How to Use
+## <ins>How to Use</ins>
 1. Open the provided Excel file containing the cleaned and structured data.
 2. Navigate to the respective sheets for insights on:
    - Sales Trends
@@ -85,12 +82,12 @@ The analysis includes visualizations to better understand the data:
 
 ---
 
-## Conclusion
+## <ins>Conclusion</ins>
 The project showcases how data-driven insights can help businesses optimize sales strategies, identify growth opportunities, and improve market penetration. By leveraging Excel for data analysis and visualization, the analysis provided actionable insights into Amazon's sales performance across various dimensions.
 
 ---
 
-## Contact
+## <ins>Contact</ins>
 For questions or collaborations, feel free to reach out:
 - [LinkedIn] www.linkedin.com/in/nf-103593288
 - [GitHub] https://github.com/NisharFathima
