@@ -85,8 +85,3 @@ The project showcases how data-driven insights can help businesses optimize sale
 For questions or collaborations, feel free to reach out:
 - [LinkedIn] www.linkedin.com/in/nf-103593288
 - [GitHub] https://github.com/NisharFathima
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
