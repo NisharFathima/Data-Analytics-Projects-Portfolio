@@ -1,4 +1,4 @@
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "300" align="right"> 
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "200" align="right"> 
 
 # <ins> Amazon Sales Data Analysis </ins> 
 
@@ -26,9 +26,11 @@ This project involves analyzing Amazon's sales data to derive meaningful insight
 - **Excel**: Data analysis, visualization, and reporting.
 
 ---
-## <ins> Dashboad </ins>
+## <ins> Dashboard </ins>
+
 
 <img src="Amazon Sales Data Analysis Dashboard.png" width = "1000" align="center">
+
 
 ---
 
