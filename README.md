@@ -1,4 +1,5 @@
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "200"> 
+<img src="https://github.com/NisharFathima/Dashboard-Screenshot/blob/main/Amazon%20Sales%20Data%20Analysis%20Dashboard.png" width = "300">
 # <ins> Amazon Sales Data Analysis </ins>
 
 ## <ins> Project Overview </ins>
