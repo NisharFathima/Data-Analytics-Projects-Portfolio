@@ -1,3 +1,4 @@
+![Amazon Logo](./images/amazon-logo.png)
 ![Amazon Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg)
 ## <ins> Amazon Sales Data Analysis </ins>
 
