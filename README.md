@@ -1,6 +1,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "300" align="left"> 
 
-<b size="80"> <ins> Amazon Sales Data Analysis </ins></b>
+<b size="150"> <ins> Amazon Sales Data Analysis </ins></b>
 
 ** <ins> Project Overview </ins>**
 This project involves analyzing Amazon's sales data to derive meaningful insights and trends. By exploring various KPIs such as revenue, profit, Average Order Value (AOV), and sales channels, the project aims to provide actionable insights for improving sales strategies and identifying growth opportunities.
