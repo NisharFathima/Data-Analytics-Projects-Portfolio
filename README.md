@@ -1,4 +1,5 @@
 ![Amazon Logo](https://cdn.worldvectorlogo.com/logos/amazon-dark.svg)
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "300">
 ## <ins> Amazon Sales Data Analysis </ins>
 
 ## <ins> Project Overview </ins>
