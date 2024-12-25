@@ -43,9 +43,11 @@ This project focuses on analyzing the financial data of the top 500 companies in
    - Performed data manipulation using SQL queries to calculate metrics and generate summaries.
 
 4. **Visualization**:
-   - Bar charts for top companies by market cap and sales.
+   - Column charts for top 10 companies by market cap and sales.
+   - Bar Charts for top sectors by market cap and sales.
    - Scatter plots to analyze relationships between market cap and sales.
-   - Pie charts to show industry distribution of market value.
+   - Violin charts to show company distribution of market cap and sales.
+   - Funnel chart and Line chart for top 10 companies by P/S Ratio.
 
 5. **Insights and Recommendations**:
    - Highlighted market leaders and growth opportunities.
