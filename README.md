@@ -51,40 +51,6 @@ This project focuses on analyzing the financial data of the top 500 companies in
 
 ## Tools and Technologies
 - **Database**: MySQL
-- **Programming Language**: Python
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Visualization Tools**: Power BI
 
-## Deliverables
-- Cleaned dataset for further analysis.
-- Visualizations highlighting key financial metrics and trends.
-- Insights and recommendations report.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/financial-analytics
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd financial-analytics
-   ```
-3. Set up the MySQL database:
-   - Import the dataset into MySQL.
-   - Run the SQL script to create tables and preprocess data.
-
-4. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. Run the analysis script:
-   ```bash
-   python analysis.py
-   ```
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-- Data sources for providing insights into market trends.
-- Open-source libraries for enabling efficient analysis and visualization.
+## Dashboards
