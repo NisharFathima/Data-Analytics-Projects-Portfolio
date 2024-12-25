@@ -58,4 +58,4 @@ This project focuses on analyzing the financial data of the top 500 companies in
 - **Visualization Tools**: Power BI
 
 ## Dashboards
-<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Financial%20Analysis%20Overview.png">
+<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Financial%20Analysis%20Overview.png" width = "500">
