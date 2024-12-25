@@ -1,6 +1,6 @@
-<img src="https://fea.assettype.com/abp/assets/landing-500-new-f1104c1e23.jpg" width ="300">
+<img src="https://fea.assettype.com/abp/assets/landing-500-new-f1104c1e23.jpg" width ="500">
 
-# Financial Analytics of India's Top 500 Companies
+# Financial Analysis of India's Top 500 Companies
 
 ## Overview
 This project focuses on analyzing the financial data of the top 500 companies in India. The primary goal is to derive meaningful insights into market capitalization, quarterly sales, and price-to-sales ratios to understand market dynamics, identify industry leaders, and evaluate growth opportunities.
