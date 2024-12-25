@@ -5,10 +5,14 @@
 ## Overview
 This project focuses on analyzing employee attrition data to identify the key factors driving turnover and provide actionable insights to improve employee retention. The analysis was conducted for XYZ Company, which faced an overall attrition rate of **17.54%**, significantly affecting its operations and workforce stability.
 
+---
+
 ## Objectives
 - Understand the key drivers of employee attrition across different departments.
 - Analyze trends related to job satisfaction, work-life balance, and compensation.
 - Provide data-driven recommendations to reduce attrition and improve employee retention.
+
+---
 
 ## Key Insights
 1. **Overall Attrition Rate**: 17.54% (711 employees out of 4410).
@@ -20,25 +24,35 @@ This project focuses on analyzing employee attrition data to identify the key fa
 4. **Work-Life Balance**: Consistent at 60%, indicating room for improvement.
 5. **Gender-Based Attrition**: Male employees experienced higher turnover rates across all departments.
 
+---
+
 ## Tools and Techniques
 - **Data Visualization**: Used to identify trends and patterns in attrition data.
 - **Technologies Used**: 
   - **Excel**: For data cleaning and preliminary analysis.
   - **Power BI**: For creating dashboards and visualizations.
 
+---
+
 ## Dashboard 
   
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/HR%20Dashboard.png">
+
+---
 
 ## Recommendations
   - Enhance job satisfaction through employee engagement and development programs.
   - Focus on the HR department with tailored retention initiatives.
   - Address gender-based attrition with targeted strategies.
 
+---
+
 ## Future Enhancements
 - Develop a predictive model to identify employees at risk of attrition.
 - Explore additional factors like performance reviews and career growth opportunities.
 - Automate the dashboard for real-time updates.
+
+---
 
 ## Contact
 For questions or collaborations, feel free to reach out:
