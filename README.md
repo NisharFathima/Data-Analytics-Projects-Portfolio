@@ -3,3 +3,6 @@
 
 <a href="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Power-BI/README.md
 ">Excel & Power BI</a>
+
+<a href="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Power-BI/README.md
+">MySQL</a>
