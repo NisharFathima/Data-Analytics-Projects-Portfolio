@@ -1,4 +1,5 @@
-<img src="https://img.freepik.com/premium-photo/human-resources-hr-concept-search-employees_102583-6600.jpg">
+<img src="https://img.freepik.com/premium-photo/human-resources-hr-concept-search-employees_102583-6600.jpg"  align="center">
+
 # Employee Attrition Analysis
 
 ## Overview
