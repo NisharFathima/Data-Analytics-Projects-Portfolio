@@ -29,3 +29,14 @@ This project focuses on analyzing employee attrition data to identify the key fa
 - **Dashboard**:
   
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/HR%20Dashboard.png">
+
+---
+- **Recommendations**:
+  - Enhance job satisfaction through employee engagement and development programs.
+  - Focus on the HR department with tailored retention initiatives.
+  - Address gender-based attrition with targeted strategies.
+---
+## <ins>Contact</ins>
+For questions or collaborations, feel free to reach out:
+- [LinkedIn] www.linkedin.com/in/nf-103593288
+- [GitHub] https://github.com/NisharFathima
