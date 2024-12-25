@@ -20,21 +20,8 @@ This project focuses on analyzing employee attrition data to identify the key fa
 
 ## Tools and Techniques
 - **Data Visualization**: Used to identify trends and patterns in attrition data.
-- **Statistical Analysis**: Conducted to understand the relationship between key factors and attrition.
 - **Technologies Used**: 
   - **Excel**: For data cleaning and preliminary analysis.
-  - **Power BI/Tableau**: For creating dashboards and visualizations.
-  - **Python/R**: For statistical analysis and advanced insights.
+  - **Power BI**: For creating dashboards and visualizations.
 
-## Deliverables
-- **Dashboard**: An interactive dashboard showcasing attrition trends and key metrics by department.
-- **Insights**: Actionable insights to improve retention through job satisfaction and targeted retention strategies.
-- **Recommendations**:
-  - Enhance job satisfaction through employee engagement and development programs.
-  - Focus on the HR department with tailored retention initiatives.
-  - Address gender-based attrition with targeted strategies.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/employee-attrition-analysis.git
+- **Dashboard**:
