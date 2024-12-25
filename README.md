@@ -26,11 +26,10 @@ This project focuses on analyzing employee attrition data to identify the key fa
   - **Excel**: For data cleaning and preliminary analysis.
   - **Power BI**: For creating dashboards and visualizations.
 
-- **Dashboard**:
+## Dashboard 
   
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/HR%20Dashboard.png">
 
----
 - **Recommendations**:
   - Enhance job satisfaction through employee engagement and development programs.
   - Focus on the HR department with tailored retention initiatives.
