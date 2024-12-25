@@ -30,15 +30,15 @@ This project focuses on analyzing employee attrition data to identify the key fa
   
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/HR%20Dashboard.png">
 
-- **Recommendations**:
+## Recommendations
   - Enhance job satisfaction through employee engagement and development programs.
   - Focus on the HR department with tailored retention initiatives.
   - Address gender-based attrition with targeted strategies.
 
 ## Future Enhancements
-Develop a predictive model to identify employees at risk of attrition.
-Explore additional factors like performance reviews and career growth opportunities.
-Automate the dashboard for real-time updates.
+- Develop a predictive model to identify employees at risk of attrition.
+- Explore additional factors like performance reviews and career growth opportunities.
+- Automate the dashboard for real-time updates.
 
 ## Contact
 For questions or collaborations, feel free to reach out:
