@@ -2,6 +2,8 @@
 
 # Employee Attrition Analysis
 
+---
+
 ## Overview
 This project focuses on analyzing employee attrition data to identify the key factors driving turnover and provide actionable insights to improve employee retention. The analysis was conducted for XYZ Company, which faced an overall attrition rate of **17.54%**, significantly affecting its operations and workforce stability.
 
