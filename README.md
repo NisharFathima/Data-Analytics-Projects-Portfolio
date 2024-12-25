@@ -1,5 +1,90 @@
-<a href="https://www.w3schools.com](https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/tree/Microsoft-Excel
-">Excel</a>
+# Financial Analytics of India's Top 500 Companies
 
-<a href="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Power-BI/README.md
-">Excel & Power BI</a>
+## Overview
+This project focuses on analyzing the financial data of the top 500 companies in India. The primary goal is to derive meaningful insights into market capitalization, quarterly sales, and price-to-sales ratios to understand market dynamics, identify industry leaders, and evaluate growth opportunities.
+
+## Project Objectives
+- Analyze the market capitalization and quarterly sales data of 458 companies.
+- Calculate and interpret the price-to-sales (P/S) ratio.
+- Identify the top-performing companies and industries based on financial metrics.
+- Visualize the data to highlight key trends and relationships.
+
+## Key Findings
+- **Total Market Capitalization**: ₹13 trillion crores.
+- **Total Quarterly Sales**: ₹2 trillion crores.
+- **Average Market Capitalization**: ₹29,000 crores.
+- **Average Quarterly Sales**: ₹4,000 crores.
+- **P/S Ratio**: 1:0.52, suggesting companies are moderately valued relative to their sales.
+- **Top 10 Companies**:
+  1. Reliance Industries
+  2. TCS
+  3. HDFC Bank
+  4. ITC
+  5. HDFC Housing
+  6. Hindustan Unilever
+  7. Maruti Suzuki
+  8. Infosys
+  9. ONGC
+  10. SBI
+
+## Methodology
+1. **Data Cleaning and Preprocessing**
+   - Removed missing or inconsistent data points.
+   - Standardized financial metrics for consistency.
+
+2. **Key Metrics Calculated**:
+   - Market Capitalization to Sales Ratio (P/S Ratio).
+   - Industry-wise and company-level averages for sales and market cap.
+
+3. **Database Operations**:
+   - Used MySQL for data storage and querying.
+   - Performed data manipulation using SQL queries to calculate metrics and generate summaries.
+
+4. **Visualization**:
+   - Bar charts for top companies by market cap and sales.
+   - Scatter plots to analyze relationships between market cap and sales.
+   - Pie charts to show industry distribution of market value.
+
+5. **Insights and Recommendations**:
+   - Highlighted market leaders and growth opportunities.
+   - Suggested focus areas based on undervalued companies and industry trends.
+
+## Tools and Technologies
+- **Database**: MySQL
+- **Programming Language**: Python
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Visualization Tools**: Power BI
+
+## Deliverables
+- Cleaned dataset for further analysis.
+- Visualizations highlighting key financial metrics and trends.
+- Insights and recommendations report.
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/financial-analytics
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd financial-analytics
+   ```
+3. Set up the MySQL database:
+   - Import the dataset into MySQL.
+   - Run the SQL script to create tables and preprocess data.
+
+4. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. Run the analysis script:
+   ```bash
+   python analysis.py
+   ```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgments
+- Data sources for providing insights into market trends.
+- Open-source libraries for enabling efficient analysis and visualization.
