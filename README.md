@@ -1,4 +1,6 @@
+<p align="Center">
 <img src="https://fea.assettype.com/abp/assets/landing-500-new-f1104c1e23.jpg" width ="500">
+</p>
 
 # Financial Analysis of India's Top 500 Companies
 
@@ -59,10 +61,16 @@ This project focuses on analyzing the financial data of the top 500 companies in
 
 ## Dashboards
 ### Overview
-<img align="Center" src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Financial%20Analysis%20Overview.png" width = "500" >
+<p align="Center">
+<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Financial%20Analysis%20Overview.png" width = "500" >
+</p>
 
 ### Market Capitalization
-<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Fin_Mar_Cap.png" width="500" align="Center">
+<p align="Center">
+<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Fin_Mar_Cap.png" width="500">
+</p>
 
 ### Quarterly Sales
-<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Fin_Qtr_Sales.png" width="500" align-="Center">
+<p align="Center">
+<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Fin_Qtr_Sales.png" width="500">
+</p>
