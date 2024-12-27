@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "500"> 
 </p>
 
