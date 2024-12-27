@@ -39,7 +39,7 @@ This project focuses on analyzing employee attrition data to identify the key fa
 ---
 
 ## Dashboard 
-<p align="Center"  
+<p align="Center" >
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/HR%20Dashboard.png" width="500">
 </p>   
 ---
