@@ -96,3 +96,10 @@
 ### <ins>Conclusion</ins>
 
 This project highlights the financial landscape of India’s top companies, providing a data-driven perspective on their market performance. Additionally, the study uncovered potential investment opportunities among undervalued companies with strong sales figures.These insights can support strategic decision-making for stakeholders, helping them to understand market trends and allocate resources effectively.
+
+---
+
+## <ins>Contact</ins>
+For questions or collaborations, feel free to reach out:
+- [LinkedIn] www.linkedin.com/in/nf-103593288
+- [GitHub] https://github.com/NisharFathima
