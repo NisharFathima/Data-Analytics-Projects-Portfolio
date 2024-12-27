@@ -4,18 +4,13 @@
 
 # <ins>Financial Analysis of India's Top 500 Companies</ins>
 
----
-
 ## <ins>Overview</ins>
 
---This project focuses on analyzing the financial data of the top 500 companies in India. The primary goal is to derive meaningful insights into market capitalization, quarterly sales, and price-to-sales ratios to understand market dynamics, identify industry leaders, and evaluate growth opportunities.
+-This project focuses on analyzing the financial data of the top 500 companies in India. The primary goal is to derive meaningful insights into market capitalization, quarterly sales, and price-to-sales ratios to understand market dynamics, identify industry leaders, and evaluate growth opportunities.
 
 ---
 
 ## <ins>Project Objectives</ins>
-
----
-
 - Analyze the market capitalization and quarterly sales data of 458 companies.
 - Calculate and interpret the price-to-sales (P/S) ratio.
 - Identify the top-performing companies and industries based on financial metrics.
@@ -24,9 +19,6 @@
 ---
 
 ## <ins>Key Findings</ins>
-
----
-
 - **Total Market Capitalization**: ₹13 million crores.
 - **Total Quarterly Sales**: ₹2 million crores.
 - **Average Market Capitalization**: ₹29,000 crores.
@@ -44,11 +36,10 @@
   9. ONGC
   10. SBI
  
-  ---
+ ---
 
 ## <ins>Methodology</ins>
 
----
 1. **Data Cleaning and Preprocessing**
    - Removed missing or inconsistent data points.
    - Standardized financial metrics for consistency.
@@ -75,14 +66,11 @@
 ---
 
 ## <ins>Tools and Technologies</ins>
-
----
 - **Database**: MySQL
 - **Visualization Tools**: Power BI
 
 ---
 ## <ins>Dashboards</ins>
----
 
 ### Overview
 <p align="Center">
