@@ -1,5 +1,5 @@
 <p align="Center">
-<img src="https://fea.assettype.com/abp/assets/landing-500-new-f1104c1e23.jpg" width ="850">
+<img src="https://fea.assettype.com/abp/assets/landing-500-new-f1104c1e23.jpg" width ="700">
 </p>
 
 # Financial Analysis of India's Top 500 Companies
