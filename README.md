@@ -1,4 +1,6 @@
+<p align="Center">
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "300" align="center"> 
+</p>
 
 # <ins>Amazon Sales Data Analysis </ins>
 
@@ -70,10 +72,9 @@ The analysis includes visualizations to better understand the data:
 
 ## <ins> Dashboard </ins>
 
-
-<img src="https://github.com/NisharFathima/Projects-Portfolio/blob/ff6fd81fa4fb1fc1c240992ac07fdeba610e7f46/Amazon%20Sales%20Data%20Analysis%20Dashboard.png">
-
-
+<p align="Center">
+<img src="https://github.com/NisharFathima/Projects-Portfolio/blob/ff6fd81fa4fb1fc1c240992ac07fdeba610e7f46/Amazon%20Sales%20Data%20Analysis%20Dashboard.png" width="500">
+</p>
 
 ---
 
