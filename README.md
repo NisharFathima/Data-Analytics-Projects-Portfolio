@@ -79,16 +79,20 @@
 
 ---
 
-### Market Capitalization
+### <ins>Market Capitalization</ins>
 <p align="Center">
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Fin_Mar_Cap.png" width="500">
 </p>
 
 ---
 
-### Quarterly Sales
+### <ins>Quarterly Sales</ins>
 <p align="Center">
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Fin_Qtr_Sales.png" width="500">
 </p>
 
 ---
+
+### <ins>Conclusion</ins>
+
+This project highlights the financial landscape of India’s top companies, providing a data-driven perspective on their market performance. Additionally, the study uncovered potential investment opportunities among undervalued companies with strong sales figures.These insights can support strategic decision-making for stakeholders, helping them to understand market trends and allocate resources effectively.
