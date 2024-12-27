@@ -2,18 +2,33 @@
 <img src="https://fea.assettype.com/abp/assets/landing-500-new-f1104c1e23.jpg" width ="700">
 </p>
 
-# Financial Analysis of India's Top 500 Companies
+# <ins>Financial Analysis of India's Top 500 Companies</ins>
 
-## Overview
+---
+
+## <ins>Overview</ins>
+
+---
+
 This project focuses on analyzing the financial data of the top 500 companies in India. The primary goal is to derive meaningful insights into market capitalization, quarterly sales, and price-to-sales ratios to understand market dynamics, identify industry leaders, and evaluate growth opportunities.
 
-## Project Objectives
+---
+
+## <ins>Project Objectives</ins>
+
+---
+
 - Analyze the market capitalization and quarterly sales data of 458 companies.
 - Calculate and interpret the price-to-sales (P/S) ratio.
 - Identify the top-performing companies and industries based on financial metrics.
 - Visualize the data to highlight key trends and relationships.
 
-## Key Findings
+---
+
+## <ins>Key Findings</ins>
+
+---
+
 - **Total Market Capitalization**: ₹13 million crores.
 - **Total Quarterly Sales**: ₹2 million crores.
 - **Average Market Capitalization**: ₹29,000 crores.
@@ -30,8 +45,12 @@ This project focuses on analyzing the financial data of the top 500 companies in
   8. Infosys
   9. ONGC
   10. SBI
+ 
+  ---
 
-## Methodology
+## <ins>Methodology</ins>
+
+---
 1. **Data Cleaning and Preprocessing**
    - Removed missing or inconsistent data points.
    - Standardized financial metrics for consistency.
@@ -54,23 +73,36 @@ This project focuses on analyzing the financial data of the top 500 companies in
 5. **Insights and Recommendations**:
    - Highlighted market leaders and growth opportunities.
    - Suggested focus areas based on undervalued companies and industry trends.
+  
+---
 
-## Tools and Technologies
+## <ins>Tools and Technologies</ins>
+
+---
 - **Database**: MySQL
 - **Visualization Tools**: Power BI
 
-## Dashboards
+---
+## <ins>Dashboards</ins>
+---
+
 ### Overview
 <p align="Center">
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Financial%20Analysis%20Overview.png" width = "500" >
 </p>
+
+---
 
 ### Market Capitalization
 <p align="Center">
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Fin_Mar_Cap.png" width="500">
 </p>
 
+---
+
 ### Quarterly Sales
 <p align="Center">
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Fin_Qtr_Sales.png" width="500">
 </p>
+
+---
