@@ -59,7 +59,7 @@ This project focuses on analyzing the financial data of the top 500 companies in
 
 ## Dashboards
 ### Overview
-<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Financial%20Analysis%20Overview.png" width = "500" align="Center">
+<img align="Center" src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Financial%20Analysis%20Overview.png" width = "500" >
 
 ### Market Capitalization
 <img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/Fin_Mar_Cap.png" width="500" align="Center">
