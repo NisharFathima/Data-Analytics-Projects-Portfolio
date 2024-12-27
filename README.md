@@ -8,9 +8,7 @@
 
 ## <ins>Overview</ins>
 
----
-
-This project focuses on analyzing the financial data of the top 500 companies in India. The primary goal is to derive meaningful insights into market capitalization, quarterly sales, and price-to-sales ratios to understand market dynamics, identify industry leaders, and evaluate growth opportunities.
+--This project focuses on analyzing the financial data of the top 500 companies in India. The primary goal is to derive meaningful insights into market capitalization, quarterly sales, and price-to-sales ratios to understand market dynamics, identify industry leaders, and evaluate growth opportunities.
 
 ---
 
