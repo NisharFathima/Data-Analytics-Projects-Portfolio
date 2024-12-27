@@ -1,4 +1,6 @@
-<img src="https://img.freepik.com/premium-photo/human-resources-hr-concept-search-employees_102583-6600.jpg"  align="middle">
+<p align="Center">
+<img src="https://img.freepik.com/premium-photo/human-resources-hr-concept-search-employees_102583-6600.jpg">
+</p>
 
 # Employee Attrition Analysis
 
@@ -37,9 +39,9 @@ This project focuses on analyzing employee attrition data to identify the key fa
 ---
 
 ## Dashboard 
-  
-<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/HR%20Dashboard.png">
-
+<p align="Center"  
+<img src="https://github.com/NisharFathima/Data-Analytics-Projects-Portfolio/blob/Dashboard-Screenshots/HR%20Dashboard.png" width="500">
+</p>   
 ---
 
 ## Recommendations
