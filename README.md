@@ -14,8 +14,8 @@ This project focuses on analyzing the financial data of the top 500 companies in
 - Visualize the data to highlight key trends and relationships.
 
 ## Key Findings
-- **Total Market Capitalization**: ₹13 trillion crores.
-- **Total Quarterly Sales**: ₹2 trillion crores.
+- **Total Market Capitalization**: ₹13 million crores.
+- **Total Quarterly Sales**: ₹2 million crores.
 - **Average Market Capitalization**: ₹29,000 crores.
 - **Average Quarterly Sales**: ₹4,000 crores.
 - **P/S Ratio**: 1:0.52, suggesting companies are moderately valued relative to their sales.
