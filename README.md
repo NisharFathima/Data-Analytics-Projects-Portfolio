@@ -1,5 +1,5 @@
 <p align="Center">
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "500" height = "800" align="center"> 
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-dark.svg" width = "600" height = "200" align="center"> 
 </p>
 
 # <ins>Amazon Sales Data Analysis </ins>
